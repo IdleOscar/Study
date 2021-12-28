@@ -2,6 +2,9 @@ h1 {
   color: purple;
   font-size: 160px;
   box-shadow: 5px 10px #888888;
+  margin: 35px;
+   margin-bottom: 35px;
+   margin-right: 100px;
 }
 #s {
   color: purple;
@@ -18,6 +21,10 @@ h1 {
 body {background-color: rgb(138,2,31,0.3);
  }
 #SD {
+  font-family: "Times New Roman", Times, serif;
+  font-feature-settings: "c2sc", "smcp"; position: absolute;
+  left: 500px;
+  top: 650px;
   width: 155px;
     height: 100px;
   background-color: grey;

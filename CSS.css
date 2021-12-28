@@ -1,13 +1,14 @@
 h1 {
   color: purple;
   font-size: 160px;
+  box-shadow: 5px 10px #888888;
 }
 #s {
   color: purple;
 
 }
 #Se{
-
+  filter: grayscale(100%);
   position: relative;
   animation: mymove 18s infinite;}
 @keyframes mymove {

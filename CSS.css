@@ -1,0 +1,25 @@
+h1 {
+  color: purple;
+  font-size: 160px;
+}
+#s {
+  color: purple;
+
+}
+#Se{
+
+  position: relative;
+  animation: mymove 18s infinite;}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 800px;}
+}
+body {background-color: rgb(138,2,31,0.3);
+ }
+#SD {
+  width: 155px;
+    height: 100px;
+  background-color: grey;
+border: 1px solid #323232;
+
+}

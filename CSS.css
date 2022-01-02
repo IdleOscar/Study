@@ -1,33 +1,36 @@
-h1 {
-  color: purple;
-  font-size: 160px;
-  box-shadow: 5px 10px #888888;
-  margin: 35px;
-   margin-bottom: 35px;
-   margin-right: 100px;
+#Men {
+  border-style: double;
+  margin-left: 800px;
+  margin-bottom:  800px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 80px;
+  width: 20%;
+  position: absolute;
+  top: 1000px;
+  left: 16px;
+  font-size: 18px;
+  background-color: lightblue;
+
+ overflow: scroll;
 }
-#s {
-  color: purple;
+#Chel{
+  border-style: dotted;
+  width: 50%;
 
 }
-#Se{
-  filter: grayscale(100%);
-  position: relative;
-  animation: mymove 18s infinite;}
-@keyframes mymove {
-  from {left: 0px;}
-  to {left: 800px;}
+#Sen{
+  border-style: solid;
+   display: block;
+  position: absolute;
+  height: 20%;
+  top: 750px;
+  margin-left: 800px;
+    left: 16px;
+  font-size: 18px;
 }
-body {background-color: rgb(138,2,31,0.3);
- }
-#SD {
-  font-family: "Times New Roman", Times, serif;
-  font-feature-settings: "c2sc", "smcp"; position: absolute;
-  left: 500px;
-  top: 650px;
-  width: 155px;
-    height: 100px;
-  background-color: grey;
-border: 1px solid #323232;
+#Uwu{
+  padding-right: 500px;
 
 }

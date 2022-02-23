@@ -1,36 +1,36 @@
-#Men {
-  border-style: double;
-  margin-left: 800px;
-  margin-bottom:  800px;
-  padding-left: 50px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  height: 80px;
-  width: 20%;
-  position: absolute;
-  top: 1000px;
-  left: 16px;
-  font-size: 18px;
-  background-color: lightblue;
+ #back{
+  background: rgba(80, 20, 20, 0.125);
 
- overflow: scroll;
+  position: relative;
 }
-#Chel{
-  border-style: dotted;
-  width: 50%;
+#BA{
+  margin-top: 50px;
+}
+img{
+  width: 40%;
+}
+#DA{
+  margin-top: 50px;
+  background-image: url(TTH.j);
 
 }
-#Sen{
-  border-style: solid;
-   display: block;
-  position: absolute;
-  height: 20%;
-  top: 750px;
-  margin-left: 800px;
-    left: 16px;
-  font-size: 18px;
+body{
+  min-height: 640px;
+
 }
+
 #Uwu{
   padding-right: 500px;
+
+}
+.container-fluid{
+  background-color: lightgray;
+  margin-top: 800px;
+}
+
+
+.navbar-nav{
+  margin-left: 900px;
+  width: 80%;
 
 }
